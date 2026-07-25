@@ -107,7 +107,7 @@ export function Hero() {
           </button>
           <a
             href="/resume.pdf"
-            download
+            download="Tashmeet_Resume.pdf"
             className="group inline-flex items-center gap-2 rounded-xl glass glass-hover px-6 py-3 text-sm font-semibold text-slate-200"
           >
             <Download className="h-4 w-4 text-accent-400" />
